@@ -33,7 +33,6 @@ class TestOrderPage:
         order_page = OrderPage(driver)
         order_page.open_page()
         order_page.click_on_yandex_logo()
-#изменить, тут проблема таймаут
         driver.switch_to.window(driver.window_handles[-1])
         order_page.wait_for_url_contains(Urls.DZEN_URL)
         assert Urls.DZEN_URL in driver.current_url
