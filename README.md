@@ -19,7 +19,12 @@
 - Подключено формирование наглядных отчетов о прохождении тестов с помощью **Allure**.
 
 ---
-
+### 🎨 Макеты и требования
+- [Макет в Figma веб-приложения](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?node-id=0-1&p=f)
+- [Макет в Figma мобильного приложения](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?node-id=0-1&p=f)
+- [Требования к веб-приложению](https://docs.google.com/document/d/1peAUFCm-Xr9miJ-YRCQjRMekcuU1_qbHAC2dm3PFK_I/edit?tab=t.0#heading=h.uwghzsu8i2st)
+- [Требования к мобильному приложению](https://www.figma.com/design/kqLqPvSvjLVLomkdadkAnk/mobile?node-id=0-1&p=f)
+---
 ### 🛠 Стек технологий и инструментов
 - **Язык и фреймворки:** Python, Pytest, Selenium WebDriver
 - **Отчетность и контроль версий:** Allure, Git, GitHub
