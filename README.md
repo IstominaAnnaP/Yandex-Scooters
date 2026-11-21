@@ -43,8 +43,8 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com
-   cd название_вашего_репозитория
+   git clone https://github.com/IstominaAnnaP/Yandex-Scooters.git
+   cd Yandex-Scooters
    ```
 
 2. **Установите зависимости:**
