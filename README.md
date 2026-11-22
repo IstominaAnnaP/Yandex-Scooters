@@ -61,7 +61,7 @@
 
 3. **Запустите тесты с сохранением результатов для Allure:**
    ```bash
-   pytest --alluredir=allure-results
+   pytest --alluredir=allure_results
    ```
 
 4. **Сформируйте и откройте отчет Allure:**
